@@ -5,7 +5,7 @@ adjective: Writer
 permalink: /writer
 --- 
 
-###[Between][1]
+### [Between][1]
 
 A surreal short story about anxiety, paranoia, and measurement.
 
@@ -14,7 +14,7 @@ A surreal short story about anxiety, paranoia, and measurement.
 
 Published May 2017 on [Storyscape][2]
 
-###[Invincible][3]
+### [Invincible][3]
 
 A short story about the anxieties of childhood and the cost of friendship.
 
