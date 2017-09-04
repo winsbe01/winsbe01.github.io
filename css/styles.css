@@ -16,7 +16,7 @@ h1 {
 
 h1 > strong {
 	font-weight: normal;
-	color: #27cc18;
+	color: #4bb6d6;
 }
 
 h2 {
@@ -28,6 +28,7 @@ h2 {
 
 h3 {
 	margin: 4px;
+	font-weight: normal;
 }
 	
 ul {
@@ -41,30 +42,6 @@ li {
 
 hr {
     width: 90%;
-}
-
-site-head {
-	margin: 0px;
-	padding: 0px;
-	font-size: 240%;
-}
-
-section-head {
-	margin: 0px;
-	padding: 0px;
-	font-size: 160%;
-}
-
-red {
-	color: #ad401f;
-}
-
-green {
-	color: #27cc18;
-}
-
-blue {
-	color: #1f8cad;
 }
 
 blockquote {
