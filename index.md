@@ -3,5 +3,9 @@ layout: default
 title: Ben Winston - Human
 adjective: Human
 --- 
-[Writing](/writer)
-	
+
+Read my [published stories](/writer)
+------------------------------------
+
+See [what I've been reading](/reader)
+-------------------------------------
