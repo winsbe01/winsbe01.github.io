@@ -1,33 +1,17 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-    <link href='/css/styles.css' 
-       rel='stylesheet' type='text/css'>
-    <title>Ben Winston</title>
-    <meta http-equiv="content-type" 
-        content="text/html;charset=utf8" />
-</head>
-<body>
-  
-  <p>
-	<site-head>
-		My name is <green>Ben Winston</green> and I'm a <green>{{ page.adjective }}</green>.
-	</site-head>
-  </p>
+---
+layout: outer
+--- 
+
+My name is **Ben Winston**<br />and I'm a **{{ page.adjective }}**.
+===================================================================
 	
 {{ content }}
 
+Contact
+-------
 
-  <p>
-	<section-head>
-		Contact
-	</section-head>
-  </p>
-	
-	<p>
-	<a href="mailto:writing@benwinston.us">Click here</a> to get in touch
-	</p>
-	
-</body>
-</html>
+[Click here][email] to get in touch
+
+
+
+[email]: mailto:{{ page.adjective }}@benwinston.us
