@@ -3,5 +3,5 @@ layout: default
 title: Ben Winston - Human
 adjective: human
 --- 
-<a href="writer.html">Writing</a>
+[Writing](/writer.html)
 	
