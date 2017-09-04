@@ -3,8 +3,8 @@ layout: outer
 title: Ben Winston - {{ page.adjective }}
 --- 
 
-My name is **Ben Winston**<br />and I'm a **{{ page.adjective }}**.
-===================================================================
+My name is **Ben Winston**
+==========================
 	
 {{ content }}
 
