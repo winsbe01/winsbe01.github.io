@@ -31,3 +31,5 @@ permalink: reading/2017
 + [*The End*](https://www.indiebound.org/book/9781632061218) by Fernanda Torres
 + *This Day Ends Like Any Day* by Timothy Ogene
 + [*Temporary People*](https://www.indiebound.org/book/9781632061423) by Deepak Unnikrishnan
++ [*Unrequited*](https://www.indiebound.org/book/9780692200315) by Jenny Drummey
++ [*On Bittersweet Place*](https://www.indiebound.org/book/9780984764815) by Ronna Wineberg

@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Unrequited*](https://www.indiebound.org/book/9780692200315) by Jenny Drummey
++ [*The Glamshack*](https://www.indiebound.org/book/9780998409207) by Paul Cohen
 
 ### Past years
 + [2017 reading](/reading/2017)
