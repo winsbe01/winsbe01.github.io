@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*The Glamshack*](https://www.indiebound.org/book/9780998409207) by Paul Cohen
++ [*Parable of the Sower*](https://www.indiebound.org/book/9781609807191) by Octavia E. Butler
 
 ### Past years
 + [2017 reading](/reading/2017)

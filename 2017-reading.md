@@ -33,3 +33,6 @@ permalink: reading/2017
 + [*Temporary People*](https://www.indiebound.org/book/9781632061423) by Deepak Unnikrishnan
 + [*Unrequited*](https://www.indiebound.org/book/9780692200315) by Jenny Drummey
 + [*On Bittersweet Place*](https://www.indiebound.org/book/9780984764815) by Ronna Wineberg
++ [*The Glamshack*](https://www.indiebound.org/book/9780998409207) by Paul Cohen
++ [*To Die for the People*](https://www.indiebound.org/book/9780872865297) by Huey Newton
++ [*Data and Goliath*](https://www.indiebound.org/book/9780393352177) by Bruce Schneier
