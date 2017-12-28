@@ -36,3 +36,8 @@ permalink: reading/2017
 + [*The Glamshack*](https://www.indiebound.org/book/9780998409207) by Paul Cohen
 + [*To Die for the People*](https://www.indiebound.org/book/9780872865297) by Huey Newton
 + [*Data and Goliath*](https://www.indiebound.org/book/9780393352177) by Bruce Schneier
++ [*Parable of the Sower*](https://www.indiebound.org/book/9781609807191) by Octavia E. Butler
++ [*Small is Beautiful: Economics as if People Mattered*](https://www.indiebound.org/book/9780061997761) by E. F. Schumacher
++ [*Train Dreams*](https://www.indiebound.org/book/9781250007650) by Denis Johnson
++ [*The Man of Feeling*](https://www.indiebound.org/book/9780804172592) by Javier Marias
++ [*Wise Blood*](https://www.indiebound.org/book/9780374530631) by Flannery O'Connor
