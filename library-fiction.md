@@ -34,7 +34,7 @@ permalink: library/fiction
 #### Trade Paperback
 + *Molloy* by Samuel Beckett
 #### Trade Paperback
-+ *2666* by Roberto Bolano
++ *[2666]* by Roberto Bolano
 #### Trade Paperback
 + *Three Novels* by Richard Brautigan
 #### Trade Paperback
@@ -52,6 +52,8 @@ permalink: library/fiction
 #### Trade Paperback
 + *Naked Lunch* by William S. Burroughs
 #### Trade Paperback
+
+[2666]: https://www.indiebound.org/book/9780312429218
 
 ~C~
 + *A Happy Death* by Albert Camus
@@ -96,7 +98,7 @@ permalink: library/fiction
 ~H~
 + *The Autobiography of Malcolm X* by Malcolm X, Alex Haley
 #### Mass Market Paperback
-+ *City on Fire* by Garth Risk Hallberg
++ *[City on Fire]* by Garth Risk Hallberg
 #### Hardcover
 + *The Old Man and The Sea* by Ernest Hemingway
 #### Mass Market Paperback
@@ -108,7 +110,7 @@ permalink: library/fiction
 #### Mass Market Paperback
 + *Les Miserables* by Victor Hugo
 #### Mass Market Paperback
-+ *Mr. Splitfoot* by Samantha Hunt
++ *[Mr. Splitfoot]* by Samantha Hunt
 #### Hardcover
 + *Their Eyes Were Watching God* by Zora Neale Hurston
 #### Trade Paperback
@@ -122,6 +124,9 @@ permalink: library/fiction
 #### Mass Market Paperback
 + *A Dilemma* by Joris-Karl Huysmans
 #### Trade Paperback
+
+[City on Fire]: https://www.indiebound.org/book/9780385353779
+[Mr. Splitfoot]: https://www.indiebound.org/book/9780544526709
 
 ~I~
 + *The World According to Garp* by John Irving
@@ -148,7 +153,7 @@ permalink: library/fiction
 #### Trade Paperback
 + *One Flew Over the Cuckoo's Nest* by Ken Kesey
 #### Mass Market Paperback
-+ *Flowers for Algernon* by Daniel Keyes
++ *[Flowers for Algernon]* by Daniel Keyes
 #### Mass Market Paperback
 + *Danse Macabre* by Stephen King
 #### Mass Market Paperback
@@ -167,6 +172,8 @@ permalink: library/fiction
 + *The Shining* by Stephen King
 #### Mass Market Paperback
 
+[Flowers for Algernon]: https://www.indiebound.org/book/9780156030083
+
 ~L~
 + *To Kill a Mockingbird* by Harper Lee
 #### Mass Market Paperback
@@ -182,7 +189,7 @@ permalink: library/fiction
 ~M~
 + *Beyond Black* by Hilary Mantel
 #### Trade Paperback
-+ *The Man of Feeling* by Javier Marias
++ *[The Man of Feeling]* by Javier Marias
 #### Trade Paperback
 + *Collected Novellas* by Gabriel Garcia Marquez
 #### Trade Paperback | Novellas
@@ -201,6 +208,7 @@ permalink: library/fiction
 + *Slade House* by David Mitchell
 #### Hardcover | Signed
 
+[The Man of Feeling]: https://www.indiebound.org/book/9780804172592
 [Blood Meridian, or The Evening Redness in the West]: https://www.indiebound.org/book/9780679728757
 
 ~N~
@@ -210,7 +218,7 @@ permalink: library/fiction
 ~O~
 + *The Complete Stories* by Flannery O'Connor
 #### Trade Paperback | Stories
-+ *Wise Blood* by Flannery O'Connor
++ *[Wise Blood]* by Flannery O'Connor
 #### Trade Paperback
 + *Appointment in Samarra* by John O'Hara
 #### Trade Paperback
@@ -220,6 +228,8 @@ permalink: library/fiction
 #### Mass Market Paperback
 + *The Road to Wigan Pier* by George Orwell
 #### Mass Market Paperback
+
+[Wise Blood]: https://www.indiebound.org/book/9780374530631
 
 ~P~
 + *Snuff* by Chuck Palahniuk
@@ -256,7 +266,7 @@ permalink: library/fiction
 #### Trade Paperback
 
 ~T~
-+ *The Goldfinch* by Donna Tartt
++ *[The Goldfinch]* by Donna Tartt
 #### Hardcover | Signed
 + *Fear and Loathing in Las Vegas* by Hunter S. Thompson
 #### Mass Market Paperback
@@ -266,6 +276,8 @@ permalink: library/fiction
 #### Mass Market Paperback
 + *Great Short Works* by Mark Twain
 #### Mass Market Paperback | Stories
+
+[The Goldfinch]: https://www.indiebound.org/book/9780316055437
 
 ~V~
 + *Breakfast of Champions* by Kurt Vonnegut
