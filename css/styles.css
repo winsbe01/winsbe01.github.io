@@ -30,6 +30,10 @@ h3 {
 	margin: 4px;
 	font-weight: normal;
 }
+
+h4 {
+	color: gray;
+}
 	
 ul {
 	list-style: circle outside none;

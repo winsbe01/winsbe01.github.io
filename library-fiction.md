@@ -7,7 +7,8 @@ permalink: library/fiction
 
 ## Fiction, by Author
 
-### W
-+ *[Underground Airlines][und_air]* by Ben H. Winters
+### **W**
++ *[Underground Airlines][]* by Ben H. Winters
+	#### Hardcover
 
-[und_air]: https://www.indiebound.org/book/9780316261241
+[Underground Airlines]: https://www.indiebound.org/book/9780316261241
