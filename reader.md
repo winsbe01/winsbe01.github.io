@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*The Fifth Child*](https://www.indiebound.org/book/9780679721826) by Doris Lessing
++ [*Blood Meridian, or The Evening Redness in the West*](https://www.indiebound.org/book/9780679728757) by Cormac McCarthy
 
 ### Past years
 + [2018 reading](/reading/2018)
