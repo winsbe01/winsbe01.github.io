@@ -9,6 +9,6 @@ permalink: library/fiction
 
 ### **W**
 + *[Underground Airlines][]* by Ben H. Winters
-   + #### Hardcover
+#### Hardcover
 
 [Underground Airlines]: https://www.indiebound.org/book/9780316261241
