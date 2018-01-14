@@ -9,7 +9,7 @@ permalink: library/fiction
 
 ~A~
 + *Life, the Universe, and Everything* by Douglas Adams
-#### Mass Market Paperback
+#### Mass Market Paperback | [Borrow]
 + *The Restaurant at the End of the Universe* by Douglas Adams
 #### Mass Market Paperback
 + *The Inferno* by Dante Alighieri
@@ -299,3 +299,5 @@ permalink: library/fiction
 
 [Underground Airlines]: https://www.indiebound.org/book/9780316261241
 [The Pale King]: https://www.indiebound.org/book/9780316074230
+
+[Borrow]: mailto:librarian@benwinston.us?subject=Request to Borrow a Book
