@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Blood Meridian, or The Evening Redness in the West*](https://www.indiebound.org/book/9780679728757) by Cormac McCarthy
++ [*Catch-22*](https://www.indiebound.org/book/9780684833392) by Joseph Heller
 
 ### Past years
 + [2018 reading](/reading/2018)
