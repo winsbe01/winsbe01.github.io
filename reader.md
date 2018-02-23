@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Catch-22*](https://www.indiebound.org/book/9780684833392) by Joseph Heller
++ [*Infinite Jest*](https://www.indiebound.org/book/9780316066525) by David Foster Wallace
 
 ### Past years
 + [2018 reading](/reading/2018)
