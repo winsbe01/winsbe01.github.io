@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Infinite Jest*](https://www.indiebound.org/book/9780316066525) by David Foster Wallace
++ [*NW*](https://www.indiebound.org/book/9780143123934) by Zadie Smith
 
 ### Past years
 + [2018 reading](/reading/2018)
