@@ -21,3 +21,5 @@ permalink: reading/2018
 + [*Love in the Time of Cholera*](https://www.indiebound.org/book/9780307389732) by Gabriel García Márquez
 + [*Mislaid*](https://www.indiebound.org/book/9780062364784) by Nell Zink
 + [*Fiskadoro*](https://www.indiebound.org/book/9780060976095) by Denis Johnson
++ [*NW*](https://www.indiebound.org/book/9780143123934) by Zadie Smith
++ [*Zeroville*](https://www.indiebound.org/book/9781933372396) by Steve Erickson

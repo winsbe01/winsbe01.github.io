@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*NW*](https://www.indiebound.org/book/9780143123934) by Zadie Smith
++ [*The Trip to Echo Spring*](https://www.indiebound.org/book/9781250063731) by Olivia Lang 
 
 ### Past years
 + [2018 reading](/reading/2018)
