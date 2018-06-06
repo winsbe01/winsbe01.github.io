@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*The Trip to Echo Spring*](https://www.indiebound.org/book/9781250063731) by Olivia Lang 
++ [*A Wild Sheep Chase*](https://www.indiebound.org/book/9780375718946) by Haruki Murakami 
 
 ### Past years
 + [2018 reading](/reading/2018)

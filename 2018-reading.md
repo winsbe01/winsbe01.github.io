@@ -23,3 +23,6 @@ permalink: reading/2018
 + [*Fiskadoro*](https://www.indiebound.org/book/9780060976095) by Denis Johnson
 + [*NW*](https://www.indiebound.org/book/9780143123934) by Zadie Smith
 + [*Zeroville*](https://www.indiebound.org/book/9781933372396) by Steve Erickson
++ [*The Trip to Echo Spring*](https://www.indiebound.org/book/9781250063731) by Olivia Lang
++ [*Death Comes for the Archbishop*](https://www.indiebound.org/book/9780679728894) by Willa Cather
++ *The Adventures of a Bed Salesman* by Michael Kumpfmuller (abandoned)
