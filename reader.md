@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*A Wild Sheep Chase*](https://www.indiebound.org/book/9780375718946) by Haruki Murakami 
++ [*Ill Will*](https://www.indiebound.org/book/9780345476050) by Dan Chaon
 
 ### Past years
 + [2018 reading](/reading/2018)

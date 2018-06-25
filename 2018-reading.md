@@ -26,3 +26,6 @@ permalink: reading/2018
 + [*The Trip to Echo Spring*](https://www.indiebound.org/book/9781250063731) by Olivia Lang
 + [*Death Comes for the Archbishop*](https://www.indiebound.org/book/9780679728894) by Willa Cather
 + *The Adventures of a Bed Salesman* by Michael Kumpfmuller (abandoned)
++ [*A Wild Sheep Chase*](https://www.indiebound.org/book/9780375718946) by Haruki Murakami (misprinted copy)
++ [*Dubliners*](https://www.indiebound.org/book/9780140186475) by James Joyce
++ [*Hystopia*](https://www.indiebound.org/book/9781250118387) by David Means
