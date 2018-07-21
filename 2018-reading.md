@@ -29,3 +29,5 @@ permalink: reading/2018
 + [*A Wild Sheep Chase*](https://www.indiebound.org/book/9780375718946) by Haruki Murakami (misprinted copy)
 + [*Dubliners*](https://www.indiebound.org/book/9780140186475) by James Joyce
 + [*Hystopia*](https://www.indiebound.org/book/9781250118387) by David Means
++ [*Ill Will*](https://www.indiebound.org/book/9780345476050) by Dan Chaon
++ [*The Last Days of Night*](https://www.indiebound.org/book/9780812988925) by Graham Moore
