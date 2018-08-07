@@ -31,3 +31,6 @@ permalink: reading/2018
 + [*Hystopia*](https://www.indiebound.org/book/9781250118387) by David Means
 + [*Ill Will*](https://www.indiebound.org/book/9780345476050) by Dan Chaon
 + [*The Last Days of Night*](https://www.indiebound.org/book/9780812988925) by Graham Moore
++ [*The Stand*](https://www.indiebound.org/book/9780451169532) by Stephen King
++ [*The Silkworm (Cormoran Strike #2)*](https://www.indiebound.org/book/9780316206877) by Robert Galbraith
++ [*Pop!*](https://www.indiebound.org/book/9780990516927) by Mark Polanzak

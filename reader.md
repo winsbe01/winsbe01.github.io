@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*The Stand*](https://www.indiebound.org/book/9780451169532) by Stephen King
++ [*Kill the Next One*](https://www.indiebound.org/book/9780316354219) by Federico Axat
 
 ### Past years
 + [2018 reading](/reading/2018)
