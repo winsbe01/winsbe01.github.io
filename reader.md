@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Kill the Next One*](https://www.indiebound.org/book/9780316354219) by Federico Axat
++ [*The Breaking of Eggs*](https://www.indiebound.org/book/9780143117261) by Jim Powell
 
 ### Past years
 + [2018 reading](/reading/2018)

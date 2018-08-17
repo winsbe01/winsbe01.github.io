@@ -34,3 +34,4 @@ permalink: reading/2018
 + [*The Stand*](https://www.indiebound.org/book/9780451169532) by Stephen King
 + [*The Silkworm (Cormoran Strike #2)*](https://www.indiebound.org/book/9780316206877) by Robert Galbraith
 + [*Pop!*](https://www.indiebound.org/book/9780990516927) by Mark Polanzak
++ [*Kill the Next One*](https://www.indiebound.org/book/9780316354219) by Federico Axat
