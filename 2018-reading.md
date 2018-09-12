@@ -35,3 +35,6 @@ permalink: reading/2018
 + [*The Silkworm (Cormoran Strike #2)*](https://www.indiebound.org/book/9780316206877) by Robert Galbraith
 + [*Pop!*](https://www.indiebound.org/book/9780990516927) by Mark Polanzak
 + [*Kill the Next One*](https://www.indiebound.org/book/9780316354219) by Federico Axat
++ [*The Breaking of Eggs*](https://www.indiebound.org/book/9780143117261) by Jim Powell
++ [*Sometimes a Great Notion*](https://www.indiebound.org/book/9780140045291) by Ken Kesey
++ [*Mort*](https://www.indiebound.org/book/9780062225719) by Terry Pratchett

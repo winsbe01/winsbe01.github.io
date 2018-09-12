@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*The Breaking of Eggs*](https://www.indiebound.org/book/9780143117261) by Jim Powell
++ *L'Assommoir* by Émile Zola
 
 ### Past years
 + [2018 reading](/reading/2018)
