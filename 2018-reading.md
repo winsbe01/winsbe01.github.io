@@ -38,3 +38,6 @@ permalink: reading/2018
 + [*The Breaking of Eggs*](https://www.indiebound.org/book/9780143117261) by Jim Powell
 + [*Sometimes a Great Notion*](https://www.indiebound.org/book/9780140045291) by Ken Kesey
 + [*Mort*](https://www.indiebound.org/book/9780062225719) by Terry Pratchett
++ *L'Assommoir* by Émile Zola
++ [*The Intuitionist*](https://www.indiebound.org/book/9780385493000) by Colson Whitehead
++ [*The Sun Also Rises*](https://www.indiebound.org/book/9780743297332) by Ernest Hemingway

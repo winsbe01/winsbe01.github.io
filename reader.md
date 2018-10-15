@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ *L'Assommoir* by Émile Zola
++ [*Jonah Sees Ghosts*](https://www.indiebound.org/book/9781888451047) by Mark Sullivan
 
 ### Past years
 + [2018 reading](/reading/2018)
