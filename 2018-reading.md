@@ -41,3 +41,7 @@ permalink: reading/2018
 + *L'Assommoir* by Émile Zola
 + [*The Intuitionist*](https://www.indiebound.org/book/9780385493000) by Colson Whitehead
 + [*The Sun Also Rises*](https://www.indiebound.org/book/9780743297332) by Ernest Hemingway
++ [*Jonah Sees Ghosts*](https://www.indiebound.org/book/9781888451047) by Mark Sullivan
++ [*Fight Club*](https://www.indiebound.org/book/9780393327342) by Chuck Palahniuk
++ *Madame Bovary* by Gustave Flaubert (abandoned)
++ [*The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)*](https://www.indiebound.org/book/9780345418920) by Douglas Adams

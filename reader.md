@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Jonah Sees Ghosts*](https://www.indiebound.org/book/9781888451047) by Mark Sullivan
++ [*Dune*](https://www.indiebound.org/book/9780441172719) by Frank Herbert
 
 ### Past years
 + [2018 reading](/reading/2018)
