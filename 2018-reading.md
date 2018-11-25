@@ -45,3 +45,5 @@ permalink: reading/2018
 + [*Fight Club*](https://www.indiebound.org/book/9780393327342) by Chuck Palahniuk
 + *Madame Bovary* by Gustave Flaubert (abandoned)
 + [*The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)*](https://www.indiebound.org/book/9780345418920) by Douglas Adams
++ [*Dune*](https://www.indiebound.org/book/9780441172719) by Frank Herbert
++ [*Am I Alone Here?*](https://www.indiebound.org/book/9781936787258) by Peter Orner

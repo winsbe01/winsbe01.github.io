@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Dune*](https://www.indiebound.org/book/9780441172719) by Frank Herbert
++ [*The Prank*](https://www.indiebound.org/book/9781590178362) by Anton Chekhov
 
 ### Past years
 + [2018 reading](/reading/2018)
