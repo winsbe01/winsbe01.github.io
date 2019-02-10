@@ -47,3 +47,4 @@ permalink: reading/2018
 + [*The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)*](https://www.indiebound.org/book/9780345418920) by Douglas Adams
 + [*Dune*](https://www.indiebound.org/book/9780441172719) by Frank Herbert
 + [*Am I Alone Here?*](https://www.indiebound.org/book/9781936787258) by Peter Orner
++ [*The Prank*](https://www.indiebound.org/book/9781590178362) by Anton Chekhov
