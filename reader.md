@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Nobody Move*](https://www.indiebound.org/book/9780374222901) by Denis Johnson
++ [*Woman on the Edge of Time*](https://www.indiebound.org/book/9780449210826) by Marge Piercy
 
 ### Past years
 + [2019 reading](/reading/2019)
