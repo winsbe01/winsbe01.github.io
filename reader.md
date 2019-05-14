@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Woman on the Edge of Time*](https://www.indiebound.org/book/9780449210826) by Marge Piercy
++ [*Money: A Suicide Note*](https://www.indiebound.org/book/9780140088915) by Martin Amis
 
 ### Past years
 + [2019 reading](/reading/2019)

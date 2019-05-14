@@ -14,3 +14,8 @@ permalink: reading/2019
 + [*Cat's Eye*](https://www.indiebound.org/book/9780553282474) by Margaret Atwood
 + [*Getting Mother's Body*](https://www.indiebound.org/book/9780812968002) by Susan-Lori Parks
 + [*Giovanni's Room*](https://www.indiebound.org/book/9780345806567) by James Baldwin
++ [*Woman on the Edge of Time*](https://www.indiebound.org/book/9780449210826) by Marge Piercy
++ [*A Brief History of Seven Killings*](https://www.indiebound.org/book/9781594633942) by Marlon James
++ [*The Mirror Thief*](https://www.indiebound.org/book/9781612195148) by Martin Seay
++ [*The Unknown Terrorist*](https://www.indiebound.org/book/9780802143549) by Richard Flanagan
++ [*Career of Evil*](https://www.indiebound.org/book/9780316349932) by Robert Galbraith
