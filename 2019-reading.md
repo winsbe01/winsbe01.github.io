@@ -19,3 +19,4 @@ permalink: reading/2019
 + [*The Mirror Thief*](https://www.indiebound.org/book/9781612195148) by Martin Seay
 + [*The Unknown Terrorist*](https://www.indiebound.org/book/9780802143549) by Richard Flanagan
 + [*Career of Evil*](https://www.indiebound.org/book/9780316349932) by Robert Galbraith
++ [*Money: A Suicide Note*](https://www.indiebound.org/book/9780140088915) by Martin Amis

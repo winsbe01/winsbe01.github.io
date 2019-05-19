@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Money: A Suicide Note*](https://www.indiebound.org/book/9780140088915) by Martin Amis
++ [*Shear*](https://www.indiebound.org/book/9780802133601) by Tim Parks
 
 ### Past years
 + [2019 reading](/reading/2019)
