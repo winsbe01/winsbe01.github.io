@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Shear*](https://www.indiebound.org/book/9780802133601) by Tim Parks
++ [*Can't Stop Won't Stop*](https://www.indiebound.org/book/9780312425791) by Jeff Chang
 
 ### Past years
 + [2019 reading](/reading/2019)
