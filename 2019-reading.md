@@ -29,3 +29,13 @@ permalink: reading/2019
 + [*By Night in Chile*](https://www.indiebound.org/book/9780811215473) by Roberto Bola&ntilde;o
 + [*Beyond Black*](https://www.indiebound.org/book/9780312426057) by Hilary Mantel
 + [*Midnight's Children*](https://www.indiebound.org/book/9780812976533) by Salman Rushdie
++ [*Can't Stop Won't Stop*](https://www.indiebound.org/book/9780312425791) by Jeff Chang
++ [*Already Dead*](https://www.indiebound.org/book/9780060929091) by Denis Johnson
++ [*The Great Believers*](https://www.indiebound.org/book/9780735223523) by Rebecca Makkai
++ [*Slumberland*](https://www.indiebound.org/book/9781596912403) by Paul Beatty
++ [*The Exorcist*](https://www.indiebound.org/book/9780061007224) by William Peter Blatty
++ [*Doctor Sleep*](https://www.indiebound.org/book/9781476727653) by Stephen King
++ [*Ghosts*](https://www.indiebound.org/book/9780811217422) by Cesar Aira
++ [*The Raw Shark Texts*](https://www.indiebound.org/book/9781847671745) by Steven Hall
++ [*Ruffhouse*](https://www.indiebound.org/book/9781635765991) by Chris Schwartz
++ [*The Dinner*](https://www.indiebound.org/book/9780385346856) by Herman Koch

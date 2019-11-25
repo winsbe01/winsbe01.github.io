@@ -6,7 +6,7 @@ permalink: reader
 ---
 
 ### Currently Reading:
-+ [*Can't Stop Won't Stop*](https://www.indiebound.org/book/9780312425791) by Jeff Chang
++ [*This Way for the Gas, Ladies and Gentlemen*](https://www.indiebound.org/book/9780140186246) by Tadeusz Borowski
 
 ### Past years
 + [2019 reading](/reading/2019)
